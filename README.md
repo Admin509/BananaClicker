@@ -1,2 +1,3 @@
 # BananaClicker
-Just clicker
+
+##**Just clicker writed in Python for Banana game**
